@@ -1,2 +1,2 @@
-# Algoritmi-i-strukture-podataka-projekat
+# AISP
 Projekat 2021
