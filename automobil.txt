@@ -1,0 +1,6 @@
+1|octavia|skoda|2002|ns656|auto1|PUTNICKO
+2|neki|ferari|2008|ns939|auto2|PUTNICKO
+3|polo|vw|2007|ns4954|auto3|PUTNICKO
+4|kombi|mercedez|2020|ns838|auto4|KOMBI
+5|golf|vw|2009|ns626|auto5|PUTNICKO
+6|206|pezo|2002|bg1234|auto6|PUTNICKO

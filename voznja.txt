@@ -1,0 +1,10 @@
+1|1-2-2021|adres4|adresa5|musterija|mitar|0|0|PRIHVACENA
+7|1-2-2021|Pocetak|Pocetak|luka|zz|15|22|ZAVRSENA
+3|1-2-2021|adresa prva|adresa konacna|luka|novica|0|0|DODELJENA
+4|1-2-2021|adresaneka|adresaneka|luka|zz|0|0|ODBIJENA
+5|1-2-2021|ksafdbj|ksafdbj|luka|stevan|0|0|DODELJENA
+6|1-2-2021|fasfa|fasfa|luka|mitar|0|0|DODELJENA
+7|1-8-2021|Pocetak|Pocetak|luka|zz|15|22|ZAVRSENA
+8|1-2-2021|pocetak|pocetak|luka|(vozac)|0|0|KREIRANA_NA_CEKANJU
+9|1-2-2021|pocetak|pocetak|luka|slavisa|0|0|ODBIJENA
+10|1-2-2021|Adrbbb|Adrbbb|luka|(vozac)|0|0|KREIRANA_NA_CEKANJU

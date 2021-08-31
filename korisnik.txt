@@ -1,0 +1,7 @@
+cimi|123|cimcim|dodaj|22051115|kladovska 1|ZENSKI|0113524554|VOZAC|false
+luka|123|luka|lukic|5321242.0|adresa|MUSKI|12412|MUSTERIJA|false
+marko|123|marko|markovic|12321.0|adresa|MUSKI|1231|DISPECER|false
+mitar|123|mitar|mitrovic|4324.0|adresa|MUSKI|4322|VOZAC|false
+novica|123|ime1|prez|12121212|ulica 1|MUSKI|0605554429|VOZAC|false
+zz|123|ime|prezime|22052223|ulica 1|MUSKI|060555444|VOZAC|false
+slavisa|123|Slavisa|Petkovic|22051114|Adr1|MUSKI|0605554431|VOZAC|false
